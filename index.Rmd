@@ -3,11 +3,13 @@ title: "Nan Yang"
 image: "989a95e50eb730a3ae182849ec2a2b26.JPG"
 links:
   - label: Linkedin
-    url: "www.linkedin.com/in/nan-yang-1a050b210"
+    url: "http://www.linkedin.com/in/nan-yang-1a050b210/"
+  - label: GitHub
+    url: "https://github.com/NanYang32/NanYang32.github.io"
   - label: Resume
-    url: "Nan Yang.pdf"
+    url: "Nan_Yang.pdf"
   - label: Email
-    url: "nyang32@jh.edu"
+    url: "mailto:nyang32@jh.edu"
 output:
   postcards::solana
 ---
@@ -20,20 +22,47 @@ I am a currently second year MHS Epidemiology student in infectious disease trac
 
 **Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-MHS | August 2024 - May 2026
+MHS in Epidemiology | August 2024 - May 2026
 
 **Syracuse University** | Syracuse, NY
 
 B.S. in Public Health & Neuroscience | August 2020 - May 2024
 
-## Experience
+## Research Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
+**Johns Hopkins Center for Indigenous Health** | Research Assistant | June 2025 - August 2025
 
-**Cercle** | Producer | August 2018 - Present
+**Pride Center of Maryland** | Volunteer | November 2024 - Present
 
-**National Public Radio** | Producer | May 2015 - July 2018
+[**Larsen's Lab in Syracuse University**](https://www.maxwell.syr.edu/directory/david-larsen) | Research Assistant | June 2022 - May 2024
 
-**NME Magazine** | Editor | July 2014 - July 2016
+[**Aphasia Lab in Syracuse University**](https://aphasialab.syr.edu/) | Research Assistant | May 2023 - May 2024
 
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+## Publication
+
+Raymond, S., Neyra, M., Hill, D.T. et al. How local health departments use wastewater surveillance data for public health planning and intervention in New York State. BMC Public Health 25, 2842 (2025). [Link to article](https://doi.org/10.1186/s12889-025-24250-6)
+
+Kappus-Kron H, Chatila DA, MacLachlan AM, Pulido N, Yang N, Larsen DA. Precision public health in schools enabled by wastewater surveillance: A case study of COVID-19 in an Upstate New York middle-high school campus during the 2021-2022 academic year. PLOS Glob Public Health. 2024 Jan 10;4(1):e0001803. [Link to article](https://doi.org/10.1371/journal.pgph.0001803) 
+
+## Skills
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+
+- 📊 **R**  
+- 📊 **SAS**  
+- 📝 **REDCap**  
+- 💻 **Microsoft Office**  
+- 🫀 [**AED & CPR**](Student_eCard.pdf) 
+- 🧪 [**HIV Testing & Counseling**](HIV.pdf)
+
+</div>
+
+## My Paintings
+
+Here are a few of my artworks:
+
+![Painting 1](painting1.jpg){width=300px}
+
+![Painting 2](IMG_0639.jpg){width=300px}
+
+
