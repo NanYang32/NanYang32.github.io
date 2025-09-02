@@ -2,13 +2,13 @@
 title: "Nan Yang"
 image: "989a95e50eb730a3ae182849ec2a2b26.JPG"
 links:
-  - label: Linkedin
+  - label: '`r fontawesome::fa("linkedin", fill = "#3A5FCD")` LinkedIn'
     url: "http://www.linkedin.com/in/nan-yang-1a050b210/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "#080808")` GitHub'
     url: "https://github.com/NanYang32/NanYang32.github.io"
-  - label: Resume
+  - label: '`r fontawesome::fa("file-pdf", fill = "#B22222")` Resume'
     url: "Nan_Yang.pdf"
-  - label: Email
+  - label: '`r fontawesome::fa("at", fill = "#36648B")` Email'
     url: "mailto:nyang32@jh.edu"
 output:
   postcards::solana
