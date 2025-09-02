@@ -1,36 +1,30 @@
 ---
 title: "Nan Yang"
-image: "sigridur.jpg"
+image: "989a95e50eb730a3ae182849ec2a2b26.JPG"
 links:
+  - label: Linkedin
+    url: "www.linkedin.com/in/nan-yang-1a050b210"
   - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "Nan Yang.pdf"
+  - label: Email
+    url: "nyang32@jh.edu"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+I am a currently second year MHS Epidemiology student in infectious disease track. I am interested in any emerging infectious diseases, bacterial infection, and vaccine. I am from Shanxi, China. In my free time, I love watching shows and doing some watercolor paintings.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-M.B.A. | August 2014 - June 2015
+MHS | August 2024 - May 2026
 
-**The Juilliard School** | New York, NY
+**Syracuse University** | Syracuse, NY
 
-B.F.A. in Music Performance | August 2005 - May 2009
+B.S. in Public Health & Neuroscience | August 2020 - May 2024
 
 ## Experience
 
